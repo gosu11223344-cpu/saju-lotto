@@ -1,0 +1,1 @@
+{"root":["./vite.config.ts","./src/app.tsx","./src/constants.ts","./src/global.d.ts","./src/main.tsx","./src/types.ts","./src/components/adplaceholder.tsx","./src/components/lottoball.tsx","./src/services/geminiservice.ts"],"errors":true,"version":"5.9.3"}
